@@ -1,0 +1,61 @@
+{
+  "home": "Bosh sahifa",
+  "about": "Men haqimda",
+  "skills": "Ko'nikmalar",
+  "projects": "Loyihalar",
+  "contact": "Bog'lanish",
+
+  "hero": {
+  "titleLine1": "Salom, men <1>Madiyor</1>",
+  "titleLine2": "Frontend Dasturchi",
+    "subtitle": "Men javob beruvchi va jozibali web ilovalarni yarataman.",
+    "viewProjects": "Loyihalarni Ko‘rish",
+    "contactMe": "Men Bilan Bog‘lanish"
+  },
+   "aboutSection": {
+    "title": "Men haqimda",
+    "description": "Men foydalanuvchi uchun qulay va dinamik veb-ilovalarni yaratishga qiziqqan frontend dasturchiman. HTML, CSS va JavaScript bilan ishlash tajribam bor, yangi texnologiyalarni o‘rganishga va ko‘nikmalarimni oshirishga doimo tayyorman. Hozirda zamonaviy veb-ilovalarni React orqali yaratishga e’tibor qaratmoqdaman.",
+    "skillsTitle": "Ko'nikmalar",
+    "skills": {
+      "html": "HTML",
+      "css": "CSS",
+      "js": "JavaScript",
+      "scss": "SCSS",
+      "react": "React"
+    }
+  },
+  "projectSection": {
+  "title": "Loyihalar",
+  "liveDemo": "Demo",
+  "github": "GitHub",
+  "audi": {
+    "description": "Bu sayt Audi RS seriyasidan ilhomlanib yaratilgan..."
+  },
+  "musicflow": {
+    "description": "MusicFlow – bu zamonaviy musiqa ilovasi..."
+  },
+  "lavash": {
+    "description": "Oq-Tepa Lavash – bu tez tayyor taomlar uchun yaratilgan sayt..."
+  }
+},
+"contactSection": {
+  "title": "Menga bog‘laning",
+  "form": {
+    "name": "Ismingiz",
+    "email": "Email manzilingiz",
+    "message": "Xabaringiz",
+    "submit": "Xabar yuborish"
+  },
+  "formErrors": {
+    "name": "Iltimos, ismingizni kiriting.",
+    "email": "Iltimos, email manzilingizni kiriting.",
+    "emailInvalid": "Noto‘g‘ri email manzil.",
+    "message": "Iltimos, xabar matnini kiriting."
+  },
+  "successMessage": "Xabaringiz yuborildi!",
+  "socialTitle": "Ijtimoiy tarmoqlarim",
+  "address": "Toshkent, O‘zbekiston"
+}
+
+
+}
